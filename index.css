@@ -1,6 +1,9 @@
 
 * {
     font-size: 62.5;
+    font-family: 'Roboto Mono', monospace;
+    padding: 0;
+    margin: 0;
 }
 
 
@@ -13,6 +16,7 @@
     padding: 0;
     border: none;
     border-radius: 10px;
+    
 }
 
 .btn-1 {
@@ -31,3 +35,4 @@ h1{
     font-family: 'Chelsea Market', cursive;
 
 }
+ 
