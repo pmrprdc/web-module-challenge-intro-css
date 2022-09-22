@@ -1,0 +1,26 @@
+
+* {
+    font-size: 62.5;
+}
+
+
+.btn {
+    display: inline-block;
+    color: white;
+    width: 10em;
+    height: 3em;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-1 {
+    background-color: #FF764E;
+}
+
+.btn-2 {
+    background-color: #5ED3EB;
+}
+
+.btn-3 {
+    background-color: #FFCD69;
+}
